@@ -1,0 +1,32 @@
+{
+  "name": "sample-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhosefmarks/sample-rest-api.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs",
+    "express"
+  ],
+  "author": "Jhosef Marks de Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhosefmarks/sample-rest-api/issues"
+  },
+  "homepage": "https://github.com/jhosefmarks/sample-rest-api#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "jest": "^28.1.2",
+    "pg-promise": "^10.11.1"
+  }
+}
